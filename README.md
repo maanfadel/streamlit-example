@@ -14,4 +14,4 @@ This repository is released under the [MIT license](https://opensource.org/licen
 
 Consider donating to support my creation of educational content:
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=UHPUDP9RXGLQ8)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BPAT87YB6R4RY)
